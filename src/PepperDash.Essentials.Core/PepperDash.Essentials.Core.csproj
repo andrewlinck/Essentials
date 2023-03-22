@@ -29,7 +29,7 @@
   <ItemGroup>
     <PackageReference Include="Crestron.SimplSharp.SDK.ProgramLibrary" Version="2.19.36" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.2">
-      <Aliases>Full</Aliases>
+      <Aliases></Aliases>
     </PackageReference>
     <PackageReference Include="PepperDashCore" Version="2.0.0-beta-318" />
   </ItemGroup>

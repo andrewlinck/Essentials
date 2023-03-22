@@ -1,4 +1,4 @@
-﻿extern alias Full;
+﻿
 
 using System;
 using System.Collections.Generic;
@@ -9,8 +9,8 @@ using Crestron.SimplSharpPro;
 using Crestron.SimplSharpPro.GeneralIO;
 using Crestron.SimplSharp.Reflection;
 using PepperDash.Core;
-using Full.Newtonsoft.Json.Linq;
-using Full.Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+using Newtonsoft.Json;
 using PepperDash.Essentials.Core;
 using PepperDash.Essentials.Core.Config;
 using PepperDash.Essentials.Core.CrestronIO;

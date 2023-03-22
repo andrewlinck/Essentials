@@ -1,4 +1,4 @@
-﻿extern alias Full;
+﻿
 
 using System;
 using System.Collections.Generic;
@@ -7,7 +7,7 @@ using System.Text;
 using Crestron.SimplSharp;
 using Crestron.SimplSharpPro;
 using Crestron.SimplSharpPro.Gateways;
-using Full.Newtonsoft.Json;
+using Newtonsoft.Json;
 using Crestron.SimplSharpPro.DeviceSupport;
 
 
